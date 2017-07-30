@@ -26,7 +26,7 @@ ol,ul,li {
 html, body {
   min-height: 100%;
 }
-
+body{background:url(../images/bj.jpg)}
 body {
   min-width: 290px;
   -webkit-font-smoothing: antialiased;
